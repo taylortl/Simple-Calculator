@@ -1,0 +1,6 @@
+{
+  "title": "Adding 2 positive numbers",
+  "input": [1,2],
+  "errorExpected": false,
+  "expected": 3
+}
