@@ -1,0 +1,12 @@
+{
+  "name": "Calculator",
+  "version": "1.0.0",
+  "description": "A simple calculator ",
+  "main": "index.js",
+  "repository": "https://github.com/taylortl/Simple-Calculator.git",
+  "author": "Taylor Leong <imwhoiem@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "typescript": "^4.6.4"
+  }
+}

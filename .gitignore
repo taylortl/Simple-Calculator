@@ -1,0 +1,4 @@
+notes.txt
+*.log
+node_modules/*
+yarn.lock
