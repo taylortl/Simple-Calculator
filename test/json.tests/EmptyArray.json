@@ -1,0 +1,6 @@
+{
+    "title": "Empty Array case",
+    "input": [],
+    "errorExpected": true,
+    "expected": "EmptyList"
+  }
