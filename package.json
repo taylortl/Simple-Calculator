@@ -15,12 +15,18 @@
     "@ubccpsc310/folder-test": "^2.0.0",
     "chai": "^4.3.6",
     "chai-as-promised": "^7.1.1",
+    "ejs": "^3.1.8",
+    "express": "^4.18.1",
     "mocha": "^9.2.2",
     "ts-node": "^10.7.0",
     "tsconfig": "^7.0.0",
     "typescript": "^4.6.4"
   },
   "scripts": {
-    "test": "mocha --require ts-node/register --timeout 10000 test/**/*.spec.ts"
+    "test": "mocha --require ts-node/register --timeout 10000 test/**/*.spec.ts",
+    "devStart": "nodeman index.js"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.16"
   }
 }
